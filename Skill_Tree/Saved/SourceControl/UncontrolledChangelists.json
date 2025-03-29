@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SQ/S1OPDKPWPYVLU9BHXSQX2S.uasset",
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/Charstats/Charpage.uasset",
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/Charstats/expspawn.uasset",
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/SkillTree/SkillTree.uasset",
 				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
@@ -28,12 +34,7 @@
 				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
 				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
 				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"D:/Unreal Projects/skilltree/Skill_Tree/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"D:/Unreal Projects/skilltree/Skill_Tree/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SQ/S1OPDKPWPYVLU9BHXSQX2S.uasset",
-				"D:/Unreal Projects/skilltree/Skill_Tree/Content/Charstats/Charpage.uasset",
-				"D:/Unreal Projects/skilltree/Skill_Tree/Content/Charstats/expspawn.uasset"
+				"D:/Unreal Projects/skilltree/Skill_Tree/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
 			]
 		}
 	]
